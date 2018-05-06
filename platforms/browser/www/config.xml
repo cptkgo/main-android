@@ -19,4 +19,5 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-navigation href="data:*" />
+    <preference name="android-build-tool" value="gradle" />
 </widget>
