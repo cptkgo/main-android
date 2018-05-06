@@ -2,7 +2,7 @@
 <widget id="com.easybooker.qr" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Easybooker QR</name>
     <description>
-        Easybooker QR-code lezer om nog sneller & eenvoudiger de Easybooker promo optie te beheren!
+        Easybooker QR-code lezer om nog sneller en eenvoudiger de Easybooker promo optie te beheren!
     </description>
     <author email="bizz@easybooker.be" href="https://easybooker.be">
         Easybooker
